@@ -161,7 +161,7 @@
 	transform: rotate(calc(1 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-1-1-1 1.5s linear infinite;
@@ -200,7 +200,7 @@
 	transform: rotate(calc(2 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-1-2-1 2.5s linear infinite;
@@ -239,7 +239,7 @@
 	transform: rotate(calc(3 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-2-1-1 3.5s linear infinite;
@@ -278,7 +278,7 @@
 	transform: rotate(calc(4 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-2-2-1 4.5s linear infinite;
@@ -317,7 +317,7 @@
 	transform: rotate(calc(5 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-3-1-1 5.5s linear infinite;
@@ -356,7 +356,7 @@
 	transform: rotate(calc(6 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-3-2-1 6.5s linear infinite;
@@ -395,7 +395,7 @@
 	transform: rotate(calc(7 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-4-1-1 7.5s linear infinite;
@@ -434,7 +434,7 @@
 	transform: rotate(calc(8 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-4-2-1 8.5s linear infinite;
@@ -473,7 +473,7 @@
 	transform: rotate(calc(9 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-5-1-1 9.5s linear infinite;
@@ -512,7 +512,7 @@
 	transform: rotate(calc(10 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-5-2-1 10.5s linear infinite;
@@ -551,7 +551,7 @@
 	transform: rotate(calc(11 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-6-1-1 11.5s linear infinite;
@@ -590,7 +590,7 @@
 	transform: rotate(calc(12 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-6-2-1 12.5s linear infinite;
@@ -629,7 +629,7 @@
 	transform: rotate(calc(13 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-7-1-1 13.5s linear infinite;
@@ -668,7 +668,7 @@
 	transform: rotate(calc(14 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-7-2-1 14.5s linear infinite;
@@ -707,7 +707,7 @@
 	transform: rotate(calc(15 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-8-1-1 15.5s linear infinite;
@@ -746,7 +746,7 @@
 	transform: rotate(calc(16 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-8-2-1 16.5s linear infinite;
@@ -785,7 +785,7 @@
 	transform: rotate(calc(17 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-9-1-1 17.5s linear infinite;
@@ -824,7 +824,7 @@
 	transform: rotate(calc(18 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-9-2-1 18.5s linear infinite;
@@ -863,7 +863,7 @@
 	transform: rotate(calc(19 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-10-1-1 19.5s linear infinite;
@@ -902,7 +902,7 @@
 	transform: rotate(calc(20 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-10-2-1 20.5s linear infinite;
@@ -941,7 +941,7 @@
 	transform: rotate(calc(21 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-11-1-1 21.5s linear infinite;
@@ -980,7 +980,7 @@
 	transform: rotate(calc(22 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-11-2-1 22.5s linear infinite;
@@ -1019,7 +1019,7 @@
 	transform: rotate(calc(23 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-12-1-1 23.5s linear infinite;
@@ -1058,7 +1058,7 @@
 	transform: rotate(calc(24 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-12-2-1 24.5s linear infinite;
@@ -1097,7 +1097,7 @@
 	transform: rotate(calc(25 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-13-1-1 25.5s linear infinite;
@@ -1136,7 +1136,7 @@
 	transform: rotate(calc(26 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-13-2-1 26.5s linear infinite;
@@ -1175,7 +1175,7 @@
 	transform: rotate(calc(27 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-14-1-1 27.5s linear infinite;
@@ -1214,7 +1214,7 @@
 	transform: rotate(calc(28 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-14-2-1 28.5s linear infinite;
@@ -1253,7 +1253,7 @@
 	transform: rotate(calc(29 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-15-1-1 29.5s linear infinite;
@@ -1292,7 +1292,7 @@
 	transform: rotate(calc(30 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-15-2-1 30.5s linear infinite;
@@ -1331,7 +1331,7 @@
 	transform: rotate(calc(31 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-16-1-1 31.5s linear infinite;
@@ -1370,7 +1370,7 @@
 	transform: rotate(calc(32 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-13-1-1 32.5s linear infinite;
@@ -1409,7 +1409,7 @@
 	transform: rotate(calc(33 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-17-1-1 33.5s linear infinite;
@@ -1448,7 +1448,7 @@
 	transform: rotate(calc(34 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-17-2-1 34.5s linear infinite;
@@ -1487,7 +1487,7 @@
 	transform: rotate(calc(35 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-18-1-1 35.5s linear infinite;
@@ -1526,7 +1526,7 @@
 	transform: rotate(calc(36 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-18-2-1 36.5s linear infinite;
@@ -1565,7 +1565,7 @@
 	transform: rotate(calc(37 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-19-1-1 37.5s linear infinite;
@@ -1604,7 +1604,7 @@
 	transform: rotate(calc(38 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-19-2-1 38.5s linear infinite;
@@ -1643,7 +1643,7 @@
 	transform: rotate(calc(39 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-20-1-1 39.5s linear infinite;
@@ -1682,7 +1682,7 @@
 	transform: rotate(calc(40 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-20-2-1 40.5s linear infinite;
@@ -1721,7 +1721,7 @@
 	transform: rotate(calc(41 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-21-1-1 41.5s linear infinite;
@@ -1760,7 +1760,7 @@
 	transform: rotate(calc(42 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-21-2-1 42.5s linear infinite;
@@ -1799,7 +1799,7 @@
 	transform: rotate(calc(43 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-22-1-1 43.5s linear infinite;
@@ -1838,7 +1838,7 @@
 	transform: rotate(calc(44 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-22-2-1 44.5s linear infinite;
@@ -1877,7 +1877,7 @@
 	transform: rotate(calc(45 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-23-1-1 45.5s linear infinite;
@@ -1916,7 +1916,7 @@
 	transform: rotate(calc(46 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-23-2-1 46.5s linear infinite;
@@ -1955,7 +1955,7 @@
 	transform: rotate(calc(47 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-24-1-1 47.5s linear infinite;
@@ -1994,7 +1994,7 @@
 	transform: rotate(calc(48 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-24-2-1 48.5s linear infinite;
@@ -2033,7 +2033,7 @@
 	transform: rotate(calc(49 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-25-1-1 49.5s linear infinite;
@@ -2072,7 +2072,7 @@
 	transform: rotate(calc(50 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-25-2-1 50.5s linear infinite;
@@ -2111,7 +2111,7 @@
 	transform: rotate(calc(51 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-26-1-1 51.5s linear infinite;
@@ -2150,7 +2150,7 @@
 	transform: rotate(calc(52 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-26-2-1 52.5s linear infinite;
@@ -2189,7 +2189,7 @@
 	transform: rotate(calc(53 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-27-1-1 53.5s linear infinite;
@@ -2228,7 +2228,7 @@
 	transform: rotate(calc(54 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-27-2-1 54.5s linear infinite;
@@ -2267,7 +2267,7 @@
 	transform: rotate(calc(55 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-28-1-1 55.5s linear infinite;
@@ -2306,7 +2306,7 @@
 	transform: rotate(calc(56 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-28-2-1 56.5s linear infinite;
@@ -2345,7 +2345,7 @@
 	transform: rotate(calc(57 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.6;
 	opacity: 0.6;
 	animation: rotating-29-1-1 57.5s linear infinite;
@@ -2384,7 +2384,7 @@
 	transform: rotate(calc(58 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.3;
 	opacity: 0.3;
 	animation: rotating-29-2-1 58.5s linear infinite;
@@ -2423,7 +2423,7 @@
 	transform: rotate(calc(59 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #50b7e8;
 	-webkit-opacity: 0.2;
 	opacity: 0.2;
 	animation: rotating-30-1-1 59.5s linear infinite;
@@ -2462,7 +2462,7 @@
 	transform: rotate(calc(60 * 5deg));
 	-webkit-border-radius: 30%;
 	border-radius: 30%;
-	border: 1px solid #8de7eb;
+	border: 1px solid #293131;
 	-webkit-opacity: 0.1;
 	opacity: 0.1;
 	animation: rotating-20-2-1 60.5s linear infinite;
