@@ -33,7 +33,7 @@
 		transform: rotate(0deg);
 	}
 	to {
-		transform: rotate(360deg);
+		transform: rotate(calc(14 * 5deg + 360deg));
 	}
 }
 
@@ -44,9 +44,9 @@
 		transform: rotate(0deg);
 	}
 	to {
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg);
-		transform: rotate(360deg);
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));
+		-o-transform: rotate(calc(14 * 5deg + 360deg));
+		transform: rotate(calc(14 * 5deg + 360deg));
 	}
 }
 @keyframes rotating-9-2-1 {
@@ -58,11 +58,11 @@
 		transform: rotate(calc(14 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(14 * 5deg + 360deg));
 	}
 }
 .rotating {
@@ -71,9 +71,6 @@
 	-ms-animation: rotating 2s linear infinite;
 	-o-animation: rotating 2s linear infinite;
 	animation: rotating 2s linear infinite;
-}
-
-.rotate-9-2-1 {
 }
 
 :host {
@@ -178,11 +175,11 @@
 		transform: rotate(calc(1 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(1 * 5deg + 360deg));
 	}
 }
 #cell-1-2-1 {
@@ -217,11 +214,11 @@
 		transform: rotate(calc(2 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(2 * 5deg + 360deg));
 	}
 }
 #cell-2-1-1 {
@@ -256,11 +253,11 @@
 		transform: rotate(calc(3 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(3 * 5deg + 360deg));
 	}
 }
 #cell-2-2-1 {
@@ -295,11 +292,11 @@
 		transform: rotate(calc(4 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(4 * 5deg + 360deg));
 	}
 }
 #cell-3-1-1 {
@@ -334,11 +331,11 @@
 		transform: rotate(calc(5 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(5 * 5deg + 360deg));
 	}
 }
 #cell-3-2-1 {
@@ -373,11 +370,11 @@
 		transform: rotate(calc(6 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(6 * 5deg + 360deg));
 	}
 }
 #cell-4-1-1 {
@@ -412,11 +409,11 @@
 		transform: rotate(calc(7 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(7 * 5deg + 360deg));
 	}
 }
 #cell-4-2-1 {
@@ -451,11 +448,11 @@
 		transform: rotate(calc(8 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(8 * 5deg + 360deg));
 	}
 }
 #cell-5-1-1 {
@@ -490,11 +487,11 @@
 		transform: rotate(calc(9 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(9 * 5deg + 360deg));
 	}
 }
 #cell-5-2-1 {
@@ -529,11 +526,11 @@
 		transform: rotate(calc(10 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(10 * 5deg + 360deg));
 	}
 }
 #cell-6-1-1 {
@@ -568,11 +565,11 @@
 		transform: rotate(calc(11 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(11 * 5deg + 360deg));
 	}
 }
 #cell-6-2-1 {
@@ -607,11 +604,11 @@
 		transform: rotate(calc(12 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(12 * 5deg + 360deg));
 	}
 }
 #cell-7-1-1 {
@@ -646,11 +643,11 @@
 		transform: rotate(calc(13 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(13 * 5deg + 360deg));
 	}
 }
 #cell-7-2-1 {
@@ -685,11 +682,11 @@
 		transform: rotate(calc(14 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(14 * 5deg + 360deg));
 	}
 }
 #cell-8-1-1 {
@@ -724,11 +721,11 @@
 		transform: rotate(calc(15 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(15 * 5deg + 360deg));
 	}
 }
 #cell-8-2-1 {
@@ -763,11 +760,11 @@
 		transform: rotate(calc(16 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(16 * 5deg + 360deg));
 	}
 }
 #cell-9-1-1 {
@@ -802,11 +799,11 @@
 		transform: rotate(calc(17 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(17 * 5deg + 360deg));
 	}
 }
 #cell-9-2-1 {
@@ -838,14 +835,14 @@
 		-moz-transform: rotate(0deg);
 		-webkit-transform: rotate(0deg);
 		-o-transform: rotate(0deg); */
-		transform: rotate(calc(14 * 5deg));
+		transform: rotate(calc(18 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(18 * 5deg + 360deg));
 	}
 }
 #cell-10-1-1 {
@@ -880,11 +877,11 @@
 		transform: rotate(calc(19 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(19 * 5deg + 360deg));
 	}
 }
 #cell-10-2-1 {
@@ -916,14 +913,14 @@
 		-moz-transform: rotate(0deg);
 		-webkit-transform: rotate(0deg);
 		-o-transform: rotate(0deg); */
-		transform: rotate(calc(30 * 5deg));
+		transform: rotate(calc(20 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(20 * 5deg + 360deg));
 	}
 }
 #cell-11-1-1 {
@@ -958,11 +955,11 @@
 		transform: rotate(calc(21 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(21 * 5deg + 360deg));
 	}
 }
 #cell-11-2-1 {
@@ -997,11 +994,11 @@
 		transform: rotate(calc(22 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(22 * 5deg + 360deg));
 	}
 }
 #cell-12-1-1 {
@@ -1036,11 +1033,11 @@
 		transform: rotate(calc(23 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(23 * 5deg + 360deg));
 	}
 }
 #cell-12-2-1 {
@@ -1075,11 +1072,11 @@
 		transform: rotate(calc(24 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(24 * 5deg + 360deg));
 	}
 }
 #cell-13-1-1 {
@@ -1114,11 +1111,11 @@
 		transform: rotate(calc(25 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(25 * 5deg + 360deg));
 	}
 }
 #cell-13-2-1 {
@@ -1153,11 +1150,11 @@
 		transform: rotate(calc(26 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(26 * 5deg + 360deg));
 	}
 }
 #cell-14-1-1 {
@@ -1192,11 +1189,11 @@
 		transform: rotate(calc(27 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(27 * 5deg + 360deg));
 	}
 }
 #cell-14-2-1 {
@@ -1231,11 +1228,11 @@
 		transform: rotate(calc(28 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(28 * 5deg + 360deg));
 	}
 }
 #cell-15-1-1 {
@@ -1270,11 +1267,11 @@
 		transform: rotate(calc(29 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(29 * 5deg + 360deg));
 	}
 }
 #cell-15-2-1 {
@@ -1309,11 +1306,11 @@
 		transform: rotate(calc(30 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(30 * 5deg + 360deg));
 	}
 }
 #cell-16-1-1 {
@@ -1348,11 +1345,11 @@
 		transform: rotate(calc(31 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(31 * 5deg + 360deg));
 	}
 }
 #cell-16-2-1 {
@@ -1387,11 +1384,11 @@
 		transform: rotate(calc(32 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(32 * 5deg + 360deg));
 	}
 }
 #cell-17-1-1 {
@@ -1426,11 +1423,11 @@
 		transform: rotate(calc(33 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(33 * 5deg + 360deg));
 	}
 }
 #cell-17-2-1 {
@@ -1465,11 +1462,11 @@
 		transform: rotate(calc(34 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(34 * 5deg + 360deg));
 	}
 }
 #cell-18-1-1 {
@@ -1504,11 +1501,11 @@
 		transform: rotate(calc(35 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(35 * 5deg + 360deg));
 	}
 }
 #cell-18-2-1 {
@@ -1543,11 +1540,11 @@
 		transform: rotate(calc(36 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(36 * 5deg + 360deg));
 	}
 }
 #cell-19-1-1 {
@@ -1582,11 +1579,11 @@
 		transform: rotate(calc(37 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(37 * 5deg + 360deg));
 	}
 }
 #cell-19-2-1 {
@@ -1621,11 +1618,11 @@
 		transform: rotate(calc(38 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(38 * 5deg + 360deg));
 	}
 }
 #cell-20-1-1 {
@@ -1660,11 +1657,11 @@
 		transform: rotate(calc(39 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(39 * 5deg + 360deg));
 	}
 }
 #cell-20-2-1 {
@@ -1699,11 +1696,11 @@
 		transform: rotate(calc(40 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(40 * 5deg + 360deg));
 	}
 }
 #cell-21-1-1 {
@@ -1738,11 +1735,11 @@
 		transform: rotate(calc(41 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(41 * 5deg + 360deg));
 	}
 }
 #cell-21-2-1 {
@@ -1777,11 +1774,11 @@
 		transform: rotate(calc(42 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(42 * 5deg + 360deg));
 	}
 }
 #cell-22-1-1 {
@@ -1816,11 +1813,11 @@
 		transform: rotate(calc(43 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(43 * 5deg + 360deg));
 	}
 }
 #cell-22-2-1 {
@@ -1855,11 +1852,11 @@
 		transform: rotate(calc(44 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(44 * 5deg + 360deg));
 	}
 }
 #cell-23-1-1 {
@@ -1894,11 +1891,11 @@
 		transform: rotate(calc(45 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(45 * 5deg + 360deg));
 	}
 }
 #cell-23-2-1 {
@@ -1933,11 +1930,11 @@
 		transform: rotate(calc(46 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(46 * 5deg + 360deg));
 	}
 }
 #cell-24-1-1 {
@@ -1972,11 +1969,11 @@
 		transform: rotate(calc(47 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(47 * 5deg + 360deg));
 	}
 }
 #cell-24-2-1 {
@@ -2011,11 +2008,11 @@
 		transform: rotate(calc(48 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(48 * 5deg + 360deg));
 	}
 }
 #cell-25-1-1 {
@@ -2050,11 +2047,11 @@
 		transform: rotate(calc(49 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(49 * 5deg + 360deg));
 	}
 }
 #cell-25-2-1 {
@@ -2089,11 +2086,11 @@
 		transform: rotate(calc(50 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(50 * 5deg + 360deg));
 	}
 }
 #cell-26-1-1 {
@@ -2128,11 +2125,11 @@
 		transform: rotate(calc(51 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(51 * 5deg + 360deg));
 	}
 }
 #cell-26-2-1 {
@@ -2167,11 +2164,11 @@
 		transform: rotate(calc(52 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(52 * 5deg + 360deg));
 	}
 }
 #cell-27-1-1 {
@@ -2206,11 +2203,11 @@
 		transform: rotate(calc(53 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(53 * 5deg + 360deg));
 	}
 }
 #cell-27-2-1 {
@@ -2245,11 +2242,11 @@
 		transform: rotate(calc(54 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(54 * 5deg + 360deg));
 	}
 }
 #cell-28-1-1 {
@@ -2284,11 +2281,11 @@
 		transform: rotate(calc(55 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(55 * 5deg + 360deg));
 	}
 }
 #cell-28-2-1 {
@@ -2323,11 +2320,11 @@
 		transform: rotate(calc(56 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(56 * 5deg + 360deg));
 	}
 }
 #cell-29-1-1 {
@@ -2362,11 +2359,11 @@
 		transform: rotate(calc(57 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(57 * 5deg + 360deg));
 	}
 }
 #cell-29-2-1 {
@@ -2401,11 +2398,11 @@
 		transform: rotate(calc(58 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(58 * 5deg + 360deg));
 	}
 }
 #cell-30-1-1 {
@@ -2440,11 +2437,11 @@
 		transform: rotate(calc(59 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(59 * 5deg + 360deg));
 	}
 }
 #cell-30-2-1 {
@@ -2479,10 +2476,10 @@
 		transform: rotate(calc(60 * 5deg));
 	}
 	to {
-		/* -ms-transform: rotate(360deg);
-		-moz-transform: rotate(360deg);
-		-webkit-transform: rotate(360deg);
-		-o-transform: rotate(360deg); */
-		transform: rotate(360deg);
+		/* -ms-transform: rotate(calc(14 * 5deg + 360deg));;
+		-moz-transform: rotate(calc(14 * 5deg + 360deg));;
+		-webkit-transform: rotate(calc(14 * 5deg + 360deg));;
+		-o-transform: rotate(calc(14 * 5deg + 360deg));; */
+		transform: rotate(calc(60 * 5deg + 360deg));
 	}
 }
